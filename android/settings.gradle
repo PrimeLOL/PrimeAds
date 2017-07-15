@@ -1,0 +1,3 @@
+rootProject.name = 'PrimeAds'
+
+include ':app'
